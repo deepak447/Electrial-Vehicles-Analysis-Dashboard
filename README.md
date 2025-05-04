@@ -39,7 +39,7 @@ This project presents a comprehensive analysis of Electric Vehicle (EV) data usi
 
 ## 📂 File Description
 
-- `Screenshot_2025-05-02.png`: Tableau dashboard screenshot showcasing the visual representation of EV data.
+- `Screenshot 2025-05-02 154648.png`: Tableau dashboard screenshot showcasing the visual representation of EV data.
 
 ---
 
@@ -61,7 +61,8 @@ This project presents a comprehensive analysis of Electric Vehicle (EV) data usi
 
 ## 📸 Dashboard Preview
 
-![EV Dashboard](Screenshot_2025-05-02.png)
+
+![Screenshot 2025-05-02 154648](https://github.com/user-attachments/assets/0f08a07e-2d82-4cfd-8d7f-27ac9570d02d)
 
 ---
 
